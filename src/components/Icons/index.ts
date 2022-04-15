@@ -1,0 +1,5 @@
+export {default as DetailsIcon} from './DetailsIcon.vue'
+export {default as FinishIcon} from './FinishIcon.vue'
+export {default as InfoIcon} from './InfoIcon.vue'
+export {default as OrderIcon} from './OrderIcon.vue'
+export {default as PhotoIcon} from './PhotoIcon.vue'

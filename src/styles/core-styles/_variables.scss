@@ -1,0 +1,23 @@
+// Font Family
+
+$desktopFontFamily: 'Montserrat', sans-serif;
+$tabletFontFamily: 'Roboto', sans-serif;
+$phoneFontFamily: 'Roboto', sans-serif;
+
+// Font sizes
+$mainFZ: 18px;
+$mobileFZ: 15px;
+$phoneFZ: 12px;
+
+
+// Font weights
+
+$light: 100;
+$regular: 400;
+$medium: 500;
+$semi-bold: 600;
+$bold: 700;
+
+@media screen and (max-width: 768px){
+  $mainFZ: 15px
+}

@@ -1,0 +1,16 @@
+export { default as Logo } from './Logo/Logo.vue';
+export { default as Checkbox } from './Checkbox/Checkbox.vue';
+export { default as Select } from './Select/Select.vue';
+export { default as Input } from './Input/Input.vue';
+export { default as InfoForm } from './InfoForm/InfoForm.vue';
+export { default as InspectionFormBlock } from './InspectionForm/InspectionFormBlock/InspectionFormBlock.vue';
+export { default as DetailsForm } from './Details/DetailsForm/DetailsForm.vue';
+export { default as DetailsCard } from './Details/DetailsCard/DetailsCard.vue';
+export { default as PhotoForm } from './PhotoForm/PhotoForm.vue';
+export { default as OrderForm } from './OrderForm/OrderForm.vue';
+export { default as Login } from './Login/Login.vue';
+export { default as ChangePass } from './ChangePass/ChangePass.vue';
+export { default as Header } from './Header/Header.vue';
+export { default as Search } from './Search/Search.vue';
+export { default as ContractCard } from './ContractCard/ContractCard.vue';
+export { default as InspectionForm } from './InspectionForm/InspectionForm.vue';

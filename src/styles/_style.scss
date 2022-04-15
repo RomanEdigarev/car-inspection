@@ -1,0 +1,50 @@
+@import './core-styles/_core-styles';
+
+#app {
+  font-family: 'Panton', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+}
+
+.text-style {
+  font-size: 18px;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.89;
+  letter-spacing: 0.6px;
+
+  &-2 {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.14;
+    letter-spacing: normal;
+  }
+
+  &-3 {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1;
+    letter-spacing: normal;
+  }
+
+  &-6 {
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.14;
+    letter-spacing: normal;
+  }
+
+  &-7 {
+    font-size: 28px;
+    font-weight: bold;
+    line-height: 1.14;
+    letter-spacing: normal;
+  }
+  &-45 {
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 0.89;
+    letter-spacing: normal;
+  }
+}
